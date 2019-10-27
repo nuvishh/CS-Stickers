@@ -4,10 +4,10 @@
     {
       "identifier": "1",
       "name": "Ariana Grande",
-      "publisher": "Sticker Central",
+      "publisher": "CS Stickers",
       "tray_image_file": "ar24.webp",
-      "publisher_email":"thecompanyabsolute@gmail.com",
-      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "publisher_email":"vishnunandhoth@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -88,10 +88,10 @@
     {
       "identifier": "2",
       "name": "Bby Never Tell",
-      "publisher": "Sticker Central",
+      "publisher": "CS Stickers",
       "tray_image_file": "bby30.webp",
-      "publisher_email":"thecompanyabsolute@gmail.com",
-      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "publisher_email":"vishnunandhoth04@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -188,10 +188,10 @@
     {
       "identifier": "3",
       "name": "Criminal Racoon",
-      "publisher": "Sticker Central",
+      "publisher": "CS Stickers",
       "tray_image_file": "rac10.webp",
-      "publisher_email":"thecompanyabsolute@gmail.com",
-      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "publisher_email":"vishnunandhoth04te@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -291,10 +291,10 @@
     {
       "identifier": "4",
       "name": "Deadpool",
-      "publisher": "Sticker Central",
+      "publisher": "CS Stickers",
       "tray_image_file": "dead7.webp",
-      "publisher_email":"thecompanyabsolute@gmail.com",
-      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "publisher_email":"vishnunandhoth04@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -378,10 +378,10 @@
     {
       "identifier": "5",
       "name": "Elon Musk",
-      "publisher": "Sticker Central",
+      "publisher": "CS Stickers",
       "tray_image_file": "el21.webp",
-      "publisher_email":"thecompanyabsolute@gmail.com",
-      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "publisher_email":"vishnunandhoth04@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -478,6 +478,96 @@
           "image_file": "el30.webp"
         }
       ]
-    }o
+    },
+    {
+      "identifier": "6",
+      "name": "Shonnakal",
+      "publisher": "CS Stickers",
+      "tray_image_file": "Laya3.webp",
+      "publisher_email":"vishnunandhoth04@gmail.com",
+      "publisher_website": "https://twitter.com/_nuvish_",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Abhi1.webp"
+        },
+        {
+          "image_file": "Abhi2.webp"
+        },
+        {
+          "image_file": "Anjana1.webp"
+        },
+        {
+          "image_file": "Anju1.webp"
+        },
+        {
+          "image_file": "Ashi1.webp"
+        },
+        {
+          "image_file": "Ashi2.webp"
+        },
+        {
+          "image_file": "Clispi1.webp"
+        },
+        {
+          "image_file": "Clispi2.webp"
+        },
+        {
+          "image_file": "Clispi3.webp"
+        },
+        {
+          "image_file": "Cut1.webp"
+        },
+        {
+          "image_file": "Laya1.webp"
+        },
+        {
+          "image_file": "Laya2.webp"
+        },
+        {
+          "image_file": "Laya3.webp"
+        },
+        {
+          "image_file": "Laya4.webp"
+        },
+        {
+          "image_file": "Laya5.webp"
+        },
+        {
+          "image_file": "Princi.webp"
+        },
+        {
+          "image_file": "Saya1.webp"
+        },
+        {
+          "image_file": "Saya2.webp"
+        },
+        {
+          "image_file": "Saya3.webp"
+        },
+        {
+          "image_file": "Sreeshma1.webp"
+        },
+        {
+          "image_file": "Sush1.webp"
+        },
+        {
+          "image_file": "Sush2.webp"
+        },
+        {
+          "image_file": "Sush3.webp"
+        },
+        {
+          "image_file": "Tus1.webp"
+        },
+        {
+          "image_file": "Tus2.webp"
+        },
+        {
+          "image_file": "Tus3.webp"
+        }
+      ]
+    }
   ]
 }
